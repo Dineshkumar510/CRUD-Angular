@@ -1,0 +1,20 @@
+{
+  "posts": [
+    {
+      "firstName": "Dinesh kumar",
+      "Surname": "Boddepalli",
+      "Email": "dk6089567@gmail.com",
+      "Location": "Srikakulam, Ap",
+      "Salary": 55000,
+      "id": "7b80"
+    },
+    {
+      "firstName": "Manoj Kumar",
+      "Surname": "Kallempudi",
+      "Email": "mkallempudi@gmail.com",
+      "Location": "vijayanagaram, AP",
+      "Salary": 50000,
+      "id": "acb8"
+    }
+  ]
+}
